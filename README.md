@@ -1,6 +1,6 @@
 # (Study) YASS - Space Shooter - Android 2D game
-## This Android 2D game is writen base on "Mastering Android Game Development" by Raul Pautals (Edition Packed) to learn 2D game architecture with Android SDK
-## Credits 
+## This Android 2D game is writen base on "Mastering Android Game Development" by Raul Pautals (Edition Packed) to learn a 2D game architecture with Android SDK
+## Credits for images and sounds
   Images http://opengameart.org/content/space-asteroids-shooter-pack (Michael Carey)
   Sound laser8 http://opengameart.org/content/laser-fire by  dklo
   Sound Muffled Distant Explosion.wa http://opengameart.org/content/muffled-distant-explosion by NenadSimic
@@ -33,7 +33,8 @@ You try to hit asteroids by the laser with the button of the bottom right hand s
 ##
 SDK API 15 ou supérieur
 ##
-
+## Techniques
+Custom View, SurfaceView, Animation, Soundpool, Collision detection, Parallax background, Fullscreen, Fixed orientation, etc
 
 
 
