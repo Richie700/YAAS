@@ -29,11 +29,11 @@ You try to hit asteroids by the laser with the button of the bottom right hand s
 ##
 ## You can put on and off audio sounds with the button of the top right hand side.
 ##
-## Prerequis
+## Pre-requisites
 ##
-SDK API 15 ou supérieur
+Minimum SDK API 15
 ##
-## Techniques
+## Learned Technique
 Custom View, SurfaceView, Animation, Soundpool, Collision detection, Parallax background, Fullscreen, Fixed orientation, etc
 
 
