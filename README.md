@@ -12,14 +12,15 @@
 ##
 ### Hit the start button on the top right hand corner.
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428196/6f49cf1a-e706-11e6-8520-4c0953b7fe7b.png" width="400"/>
+
 ##
-### Your ship appears on the screen. It can be moved by the buttons of the bottom left hand side. 
-##
+### Your ship appears at the center bottom of the screen. Move it using the buttons of the bottom left hand side. 
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428197/6f4b3bde-e706-11e6-9890-3a1f92c0b0f2.png" width="400"/>
+
 ##
 ### Asteroids start to fall. 
-#### You try to hit asteroids by the laser with the button of the bottom right hand side. If you hit one of them, you gain 50 points. But you loose 1 point if it hit at the bottom. 
-##
+### Hit the asteroids by the laser using the button of the bottom right hand side. With an astroid hit, you gain 50 points. But you loose 1 point if it hit the bottom. 
+
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428198/6f501d84-e706-11e6-92b8-2f061a8367c4.png" width="400"/>
 <img src="(https://cloud.githubusercontent.com/assets/21304543/22428199/6f5574aa-e706-11e6-902f-3dde3d5f10ba.png" width="400"/>
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428200/6f5ffed4-e706-11e6-98c5-4684b9ec7931.png" width="400"/>
