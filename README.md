@@ -19,25 +19,29 @@
 
 ##
 ### Asteroids start to fall. 
-### Hit the asteroids by the laser using the button of the bottom right hand side. With an astroid hit, you gain 50 points. But you loose 1 point if it hit the bottom. 
+### Hit the asteroids by the laser using the button of the bottom right hand side. With an astroid hit, you gain 50 points. But you loose 1 point if it hit the bottom of the screen. 
 
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428198/6f501d84-e706-11e6-92b8-2f061a8367c4.png" width="400"/>
+
 <img src="(https://cloud.githubusercontent.com/assets/21304543/22428199/6f5574aa-e706-11e6-902f-3dde3d5f10ba.png" width="400"/>
+
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428200/6f5ffed4-e706-11e6-98c5-4684b9ec7931.png" width="400"/>
-##
-### If a white asteroid hit your ship, the game will be over. Your score is on the left side of the top. 
+
+
+### If a *white asteroid* hits your ship, the game  over. Your score is on the left side of the top. 
 ### Click replay button to restart.
-##
+
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428201/6f610ed2-e706-11e6-9501-8a110b9959d3.png" width="400"/>
+
 ##
 ### You can put on and off audio sounds with the button of the top right hand side.
+
 ##
-## Pre-requisites
+### Minimum SDK API 15 required
 ##
-Minimum SDK API 15
+
 ##
-## Learned Technology
-Game architecture,
+### Learned Technology
 Custom View, SurfaceView, Animation, Soundpool, Collision detection, Parallax background, Fullscreen, Fixed orientation, etc
 
 
