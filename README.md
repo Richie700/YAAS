@@ -23,11 +23,15 @@
 
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428198/6f501d84-e706-11e6-92b8-2f061a8367c4.png" width="400"/>
 
-<img src="(https://cloud.githubusercontent.com/assets/21304543/22428199/6f5574aa-e706-11e6-902f-3dde3d5f10ba.png" width="400"/>
+
+<img src="https://cloud.githubusercontent.com/assets/21304543/22428199/6f5574aa-e706-11e6-902f-3dde3d5f10ba.png" width="400"/>
+
 
 <img src="https://cloud.githubusercontent.com/assets/21304543/22428200/6f5ffed4-e706-11e6-98c5-4684b9ec7931.png" width="400"/>
 
 
+
+##
 ### If a *white asteroid* hits your ship, the game  over. Your score is on the left side of the top. 
 ### Click replay button to restart.
 
